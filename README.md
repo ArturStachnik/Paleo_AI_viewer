@@ -29,7 +29,7 @@ README.md                      # Project documentation (this file)
 
 ## How to Use
 
-### Option 1: Run in Google Colab (Recommended)
+### Run in Google Colab
 
 1. Click the "Open in Colab" badge below.
 2. Execute all cells in order.
