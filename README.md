@@ -6,7 +6,7 @@ The viewer includes a dropdown menu to color-code the data points by season, pro
 
 ---
 
-##Open in Google Colab
+## Open in Google Colab
 
 > If you're viewing this on GitHub, you can launch the notebook directly in Google Colab:
 
@@ -14,7 +14,7 @@ The viewer includes a dropdown menu to color-code the data points by season, pro
 
 ---
 
-##Repository Structure
+## Repository Structure
 
 Paleo_AI_Viewer.ipynb          # Main notebook (designed for Google Colab)
 Holocene_T_clean.csv           # Input dataset with paleotemperature records
@@ -30,7 +30,7 @@ README.md                      # Project documentation (this file)
 
 ---
 
-##How to Use
+## How to Use
 
 ### Option 1: Run in Google Colab (Recommended)
 
@@ -45,7 +45,7 @@ README.md                      # Project documentation (this file)
 
 ---
 
-##Output: Residuals Interactive Plot
+## Output: Residuals Interactive Plot
 
 The final cell generates a scatter plot of predicted vs. true temperatures, including:
 
@@ -57,7 +57,7 @@ The final cell generates a scatter plot of predicted vs. true temperatures, incl
 
 ---
 
-##Customization Tips for the Graph
+## Customization Tips for the Graph
 
 To adjust the appearance of the graph, modify this section inside the notebook:
 
