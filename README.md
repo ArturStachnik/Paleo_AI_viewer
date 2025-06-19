@@ -6,14 +6,6 @@ The viewer includes a dropdown menu to color-code the data points by season, pro
 
 ---
 
-## Open in Google Colab
-
-> If you're viewing this on GitHub, you can launch the notebook directly in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArturStachnik/Paleo_AI_viewer/blob/main/Paleo_AI_Viewer.ipynb)
-
----
-
 ## Repository Structure
 
 ```
@@ -39,7 +31,7 @@ README.md                      # Project documentation (this file)
 
 ### Option 1: Run in Google Colab (Recommended)
 
-1. Click the "Open in Colab" badge above.
+1. Click the "Open in Colab" badge below.
 2. Execute all cells in order.
 3. The notebook will:
    - Clone this repository
@@ -73,3 +65,14 @@ fig.update_layout(
     width=2000,
     ...
 )
+```
+
+---
+
+## Open in Google Colab
+
+> If you're viewing this on GitHub, you can launch the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArturStachnik/Paleo_AI_viewer/blob/main/Paleo_AI_Viewer.ipynb)
+
+---
